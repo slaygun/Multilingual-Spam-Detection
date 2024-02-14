@@ -40,12 +40,6 @@ The project is organized into several main steps, each serving a specific purpos
 - Defines a pipeline for the entire process, including data importing, cleaning, preprocessing, and embeddings.
 - Uses TPOT (Tree-based Pipeline Optimization Tool) to automatically search for the best machine learning pipeline for the task.
 
-## Instructions for Running the Notebook
-
-1. Make sure to mount Google Drive using the provided code.
-2. Update the file path to the dataset if needed.
-3. Follow the notebook sequentially, running each code cell.
-
 ## Dependencies
 
 - pandas
